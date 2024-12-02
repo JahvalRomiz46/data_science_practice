@@ -1,5 +1,4 @@
-matplotlib.pyplot
+matplotlib
 seaborn
 pandas
 streamlit
-from babel.numbers format_currency
